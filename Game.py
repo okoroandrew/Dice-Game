@@ -5,6 +5,10 @@ import os
 
 
 class Game:
+    """
+    This class represents the dice game, it has two attributes
+    player, and computer which are instances of a player.
+    """
     def __init__(self, player: Player, computer: Player):
         self._player = player
         self._computer = computer
