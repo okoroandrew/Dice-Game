@@ -1,7 +1,7 @@
 # Dice-Game
 Play a dice game against a computer player, you win if your counter gets to zero before the computer's. counter starts at 10 and decreases or increases by 1 when you win or lose each round respectively.
 
-#General Requirements
+### General Requirements
 
 The game should have two players: a human player and a computer player. Both should
 have the same functionality.
